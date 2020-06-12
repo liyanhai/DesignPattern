@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="cglib">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/study/尚硅谷 韩顺平 图解Java设计模式/源码笔记课件/代码/DesignPattern/src/com/atguigu/proxy/cglib/asm-commons.jar!/" />
+      <root url="jar://$USER_HOME$/study/尚硅谷 韩顺平 图解Java设计模式/源码笔记课件/代码/DesignPattern/src/com/atguigu/proxy/cglib/asm-tree.jar!/" />
+      <root url="jar://$USER_HOME$/study/尚硅谷 韩顺平 图解Java设计模式/源码笔记课件/代码/DesignPattern/src/com/atguigu/proxy/cglib/asm.jar!/" />
+      <root url="jar://$USER_HOME$/study/尚硅谷 韩顺平 图解Java设计模式/源码笔记课件/代码/DesignPattern/src/com/atguigu/proxy/cglib/cglib-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
